@@ -1,8 +1,8 @@
 import { GnoJSONRPCProvider } from "@gnolang/gno-js-client";
 
 export const REALM_PATH = "gno.land/r/test1/tba";
-export const RPC_URL = "https://rpc.topaz.testnets.gno.land";
-export const CHAIN_ID = "topaz-1";
+export const RPC_URL = "https://rpc.sapphire.testnets.gno.land";
+export const CHAIN_ID = "sapphire-1";
 
 let providerPromise: Promise<GnoJSONRPCProvider> | null = null;
 
