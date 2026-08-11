@@ -1,7 +1,7 @@
 const NAV_ITEMS = [
   { label: "Vaults", href: "/", external: false, soon: false },
   { label: "Explorer", href: "https://gnolandexplorer.zeycanode.com/", external: true, soon: false },
-  { label: "Swap", href: "/swap", external: false, soon: true },
+  { label: "Swap", href: "/swap", external: false, soon: false },
   { label: "Vote", href: "/vote", external: false, soon: false },
 ];
 
